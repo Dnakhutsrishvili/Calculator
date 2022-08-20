@@ -1,0 +1,24 @@
+.screenParent {
+  width: 300px;
+  height: 50px;
+  background-color: gray;
+  display: flex;
+
+  border-top: 0.8rem;
+}
+.digit {
+  margin-left: 0.5rem;
+  color: aliceblue;
+  font-size: 1rem;
+}
+.calculatorBox {
+  width: 370px;
+  height: 70px;
+  background-color: darkslategray;
+
+  border-top-left-radius: 0.8rem;
+  border-top-right-radius: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
